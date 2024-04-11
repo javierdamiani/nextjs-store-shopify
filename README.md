@@ -25,9 +25,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Store
 
 ![image](https://github.com/platzi/nextjs-14/assets/39858532/e2b9182c-b7b7-4d71-be6c-fd1e21b9e47e)
-
-### Chatbot
-
-![image](https://github.com/platzi/nextjs-14/assets/39858532/c688a87c-dda5-457a-96b0-45fbd05a83fa)
-
-
